@@ -6,7 +6,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 - [ChatGPT](https://chat.openai.com/) 
 - [Adapta]( https://adapta.org)
-- [Adapta]( https://adapta.org)
+- [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
 ## ✨ Como foi feito ?
