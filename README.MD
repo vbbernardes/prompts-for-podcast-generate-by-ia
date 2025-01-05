@@ -84,4 +84,4 @@ Adapta para gerar capas
 
 
 # Link para o podcast
-- [Link](https://youtube.com/shorts/90p2wCYvk_4?feature=shared)
+- [Link](https://youtube.com/shorts/hJW3ExAKpdk?feature=shared)
