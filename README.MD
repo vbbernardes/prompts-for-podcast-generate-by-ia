@@ -27,6 +27,7 @@ O nome deve conter alguma palavra forte que remeta ao reiki e deverá ser místi
 Não quero que o título traga palavras em inglês 
 
 Titulo: Energia de cura 
+
 Subtitulo: O despertar do equilíbrio interior 
 *******************
 
@@ -56,6 +57,7 @@ o formato do roteiro deve ser
 - Não ultrapasse 5 minutos de duração
 
 Roteiro:
+
 [INTRODUÇÃO]
 Bem-vindos ao podcast “Energia de Cura - O Despertar do Equilíbrio Interior”. Eu sou Liz, e hoje vamos explorar um tema especial: como o Reiki pode beneficiar os animais. Essa prática terapêutica não só auxilia nós, humanos, mas também traz equilíbrio e bem-estar para nossos amigos de todas as espécies. Então, prepare-se para descobrir como a energia vital pode transformar a vida dos nossos companheiros animais.
 
