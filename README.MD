@@ -5,12 +5,15 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
+- [Adapta]( https://adapta.org)
+- [Adapta]( https://adapta.org)
+- [Capcut](https://www.capcut.com/pt-br/)
 
 ## ✨ Como foi feito ?
+- [ChatGPT](https://chat.openai.com/) 
+- Roteiro, título e subtítulo gerado via chatGPT
 
-- Roteiro e titulo gerado via chatGPT
-
-#Prompt Titulo
+#Prompt Titulo e Subtitulo
 
 Você é um roteirista de podcast e vamos criar um podcast de terapias focado em reiki e eu gostaria de uma ajuda para criar 5 sugestões de nomes criativos para um podcast feito por terapeutas.
 
