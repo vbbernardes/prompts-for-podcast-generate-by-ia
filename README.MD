@@ -65,7 +65,7 @@ Outro ponto interessante é que o Reiki tem mostrado ser muito eficaz em situaç
 [FINALIZAÇÃO]
 E assim encerramos mais um episódio do “Energia de Cura”. Se você tem um pet ou conhece alguém que poderia se beneficiar dessas informações, compartilhe esse episódio! Eu sou Liz, e esse foi o Energia de Cura dessa semana. Até a próxima!
 
-- [Adapta] ( https://adapta.org)
+- [Adapta]( https://adapta.org)
 DALLE-3
 
 Adapta para gerar capas
@@ -79,4 +79,4 @@ Adapta para gerar capas
 
 
 # Link para o podcast
-- [Link] (https://youtube.com/shorts/90p2wCYvk_4?feature=shared)
+- [Link](https://youtube.com/shorts/90p2wCYvk_4?feature=shared)
